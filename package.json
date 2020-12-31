@@ -3,9 +3,13 @@
   "version": "1.0.0",
   "description": "Fist example of lambda function as container image.",
   "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vierageorge/lambda_container_qs.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "vierageorge",
   "license": "ISC"
 }
